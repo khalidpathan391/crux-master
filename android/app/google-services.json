@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "991730464231",
+    "project_id": "crux-e4983",
+    "storage_bucket": "crux-e4983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991730464231:android:50749fb219101dca99f942",
+        "android_client_info": {
+          "package_name": "com.example.crux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991730464231-7ahro374dhiol2anmfiuv6nakch3ar6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crux",
+            "certificate_hash": "10057adfb5860dcfa5160e41fa1f96e60abd078e"
+          }
+        },
+        {
+          "client_id": "991730464231-ev9m3g6bhtvq9kijr660nvqlfrg6uqke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzXLF1LLkwstO7anctw211-EUBOc--klA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991730464231-ev9m3g6bhtvq9kijr660nvqlfrg6uqke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
